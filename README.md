@@ -88,3 +88,96 @@
 - **전략 수립:** 위험성을 줄이고 수익을 극대화하는 전략 제안
 - **백테스팅 결과:** 이론상 양매도 스트랭글 및 양매수 스트래들 전략의 안정성 분석
 - **벤치마크 대비 성과:** 과거
+
+
+# 🚀 Project1 - Option Day Trading Strategy Using Volatility Prediction Indicators
+
+---
+
+## Team Introduction 
+- **Team Name:** "ON"
+    - Ubi : on
+    - Opti : on
+    - Predict : on
+    - Switch : on 🎚
+- **Team Members:**
+  👩‍💼 Seung-hee Lee: Team Leader, Presentation Material Production, Modeling
+  👨‍💼 Jeong-yun Han: Curator, Data Collection and Preprocessing, Backtesting
+  🕵️‍♂️ Jae-wook Wi: Data Collection and Preprocessing, Backtesting
+  🧑‍🔬 Shin-wook Yu: Data Collection, Data Visualization
+  👩‍🔬 In-hee Han: Data Preprocessing, Modeling, Secretariat
+
+---
+
+## Research Topic and Background 🎯
+* Research Topic: Development of an Option Day Trading Strategy Using Volatility Prediction Indicators
+### 1. Increasing Interest in Options 
+* There is a growing interest in options trading, evidenced by increasing trade volumes.
+    -> This trend suggests potential growth in the options market, offering new opportunities for investors and researchers.
+### 2. The Distortion of Option Trading 
+* Option trading has deviated from its original purpose as a hedging tool in the futures market and has become a means for short-term profit pursuit.
+    -> This change underscores the need for research to understand this distortion and establish proper option trading strategies.
+### 3. The Risk of Option Trading 
+* As illustrated by the Barings Bank collapse, option trading can offer high returns but also comes with high risk.
+    -> There is a need to develop strategies that minimize risk while pursuing profitability.
+### 4. Case Study Problem Statement: Lessons from the Collapse of Barings Bank 
+The collapse of Barings Bank was primarily due to the failure to manage the significant risks that arose from unexpected increases in volatility while using a short-selling strategy.
+    -> This case highlights the importance of accurately predicting volatility in option trading.
+
+---
+  
+ ## Research Goals
+Our goal is to develop a model that can predict days with high volatility, allowing for risk management and profit generation through appropriate trading strategies.
+
+---
+
+## Why Predict Volatility?
+* Understanding Delta Neutrality through Greeks - additional content needed
+* Reasons for predicting VKOSPI specifically - additional content needed
+---
+## Workflow 
+1. Data Collection 
+2. Data Preprocessing 
+3. Scaling & Resampling 
+4. Statistical Verification 
+5. Feature Selection 
+6. Modeling 
+7. Performance Evaluation 
+
+---
+
+## Dataset 📊
+- **Period:** June 12 to November 3
+  - **Train data:** June 12 to October 6 (July to October contracts)
+  - **Test data:** October 10 to November 3 (November contracts)
+- **Data Classification:** While aiming for the standard 3-month maturity cycle of futures for options trading data analysis, we added an extra month of data due to a lack of trading days from July to October caused by holidays.
+
+---
+
+## Data Distribution and Outlier Exploration
+* Data distribution was roughly reviewed through the 'describe' function.
+* Outliers were considered meaningful.
+  -> They are expected to provide significant information for predicting when volatility increases.
+
+---
+
+## Feature Selection 🔍 - additional content needed
+- Comparison between logistic regression + LASSO method and correlation coefficients + feature importance method
+
+---
+
+## Modeling/Backtesting 🤖  - additional content needed
+- Analysis of the risks of failing to predict volatility
+- Backtesting results of the trading strategy
+- Reasons and methods for changing labeling
+- Comparison between long buying, short selling, and machine learning-based strategies
+
+---
+
+## Results and Conclusion 💡
+- **Barings Bank Case Study:** Analysis of the critical cause of collapse
+- **Volatility Prediction Model:** The importance of developing a model to predict days with high volatility
+- **Strategy Establishment:** Proposal of strategies that maximize profit while reducing risk
+- **Backtesting Results:** Analysis of the stability of theoretical short strangles and long straddles strategies
+- **Benchmark Performance:** Comparison with past benchmark-beating results
+
