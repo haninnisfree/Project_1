@@ -18,7 +18,7 @@
     - Ubi : on
     - Opti : on
     - Predict : on
-    - Switch " on
+    - Switch : on
 - **팀원 소개:**
     - 이승희: 팀장, 발표자료제작, 모델링
     - 한정윤: 큐레이터, 데이터 수집 및 전처리, 백테스팅
