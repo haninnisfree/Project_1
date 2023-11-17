@@ -167,4 +167,3 @@ Our goal is to develop a model that can predict days with high volatility, allow
 - **Strategy Establishment:** Proposal of strategies that maximize profit while reducing risk
 - **Backtesting Results:** Analysis of the stability of theoretical short strangles and long straddles strategies
 - **Benchmark Performance:** Comparison with past benchmark-beating results
-
