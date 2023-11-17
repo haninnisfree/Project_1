@@ -9,11 +9,11 @@
     - Predict : on 
     - Switch : on 🎚
 - **팀원 소개:**
-  👩‍💼이승희: 팀장, 발표자료제작, 모델링 
-  👨‍💼한정윤: 큐레이터, 데이터 수집 및 전처리, 백테스팅
-  🕵️‍♂️위재욱: 데이터 수집 및 전처리, 백테스팅 
-  🧑‍🔬유신욱: 데이터 수집, 데이터 시각화 
-  👩‍🔬한인희: 데이터 전처리, 모델링, 서기 
+  * 이승희: 팀장, 발표자료제작, 모델링 
+  * 한정윤: 큐레이터, 데이터 수집 및 전처리, 백테스팅
+  * 위재욱: 데이터 수집 및 전처리, 백테스팅 
+  * 유신욱: 데이터 수집, 데이터 시각화 
+  * 한인희: 데이터 전처리, 모델링, 서기 
 
 ---
 
@@ -88,11 +88,11 @@
     - Predict : on
     - Switch : on 🎚
 - **Team Members:**
-  👩‍💼 Seung-hee Lee: Team Leader, Presentation Material Production, Modeling
-  👨‍💼 Jeong-yun Han: Curator, Data Collection and Preprocessing, Backtesting
-  🕵️‍♂️ Jae-wook Wi: Data Collection and Preprocessing, Backtesting
-  🧑‍🔬 Shin-wook Yu: Data Collection, Data Visualization
-  👩‍🔬 In-hee Han: Data Preprocessing, Modeling, Secretariat
+  * Seung-hee Lee: Team Leader, Presentation Material Production, Modeling
+  * Jeong-yun Han: Curator, Data Collection and Preprocessing, Backtesting
+  * Jae-wook Wi: Data Collection and Preprocessing, Backtesting
+  * Shin-wook Yu: Data Collection, Data Visualization
+  * In-hee Han: Data Preprocessing, Modeling, Secretariat
 
 ---
 
